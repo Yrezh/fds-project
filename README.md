@@ -6,7 +6,6 @@ Momentum profits accrue overnight and partially reverse during market hours, and
 ## Setup
 
 ```bash
-conda activate mscf
-pip install -r requirements.txt   # only needed if packages are missing in mscf
+pip install -r requirements.txt
 jupyter notebook HW4_submission.ipynb
 ```
